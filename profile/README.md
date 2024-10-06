@@ -24,6 +24,10 @@ The BlackGate project is a stateless decentralized identity & access management 
 - Traditional IAM systems face issues like inefficient scalability, fragmented user identity data, and security vulnerabilities. BlackGate addresses these challenges by offering a blockchain-enabled identity management solution that enhances security and scalability.
 - The system simplifies identity management by using cryptographic techniques, decentralized identifiers, and verifiable credentials. It is designed for seamless integration with enterprise systems, improving both security and efficiency.
 
+## Current Work
+- Design Phase completed! [View the Report here](https://github.com/blackgateproject/Documentation/blob/main/Report/FYP1-MidReport-F24-083-D-BlackGate.pdf)
+- Starting work on the implementation now
+
 ## Contributors
 - [Awais Shahid](https://github.com/4W4I5)
 - [Abdullah Abubaker](https://github.com/V01D-Z)
