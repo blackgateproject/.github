@@ -4,9 +4,6 @@ The BlackGate project is a stateless decentralized identity & access management 
 
 ## Tools and Technologies
 - React Native
-- Python (FastAPI)
-- Firebase
-- Kafka
 - TensorFlow
 - Docker
 - Ethereum
