@@ -1,6 +1,4 @@
-
-![image-removebg-preview (7) (1)](https://github.com/user-attachments/assets/96ef5855-ce16-4e12-99d6-a2587cb285ee)
-
+![GithubBanner-BlackGate](https://github.com/user-attachments/assets/d5ff08fd-a6c6-4d8d-b587-21bf2639d984)
 ## Welcome!  
 The BlackGate project is a stateless decentralized identity & access management (SD-IAM) system. This system leverages blockchain technology to manage decentralized identities securely and efficiently, reducing storage requirements and enhancing privacy. The SD-IAM system provides a scalable, secure, and user-friendly solution for managing user identities, access control, and authentication in enterprise environments, ensuring data integrity and privacy.
 
